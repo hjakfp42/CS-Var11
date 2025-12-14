@@ -9,4 +9,5 @@ for i in range(24, -1, -1):
     if (a + b + c) % 24 == 0:
         print((a + b + c) // 24)
         break
-
+        
+# Ответ: 11727433732
