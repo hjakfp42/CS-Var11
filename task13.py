@@ -9,4 +9,4 @@ for ip in net:
         cnt += 1
 
 print(cnt)
-
+# Ответ: 176
